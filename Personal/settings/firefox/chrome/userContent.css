@@ -14,7 +14,7 @@ background-color: white;
 color: black;
 }
 
-select {
+select, input[type="radio"], input[type="checkbox"] {
 -moz-appearance: none !important;
 background-color: white;
 color: black;
